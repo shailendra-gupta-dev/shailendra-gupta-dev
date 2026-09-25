@@ -14,7 +14,7 @@
 - **AI-assisted engineering:** led team adoption of GitHub Copilot, GitLab Duo and Figma MCP workflows, improving engineering productivity by 30–40% while raising code quality and delivery speed.
 - **Performance:** 20–30% faster applications through lazy loading, bundle optimization, Angular Signals and Chrome DevTools profiling.
 - **Reusable UI systems:** component libraries and metadata-driven frameworks that cut feature delivery time by 25–35% across product teams.
-- **Modernization:** moved 30+ Angular modules to Angular 18 with Signals; actively exploring Angular 20–22, including zoneless change detection.
+- **Modernization:** moved 30+ Angular modules to Angular 18 with Signals; actively exploring Angular 21–22, including zoneless change detection.
 - **Leadership:** set frontend architecture direction and led 8–12 engineers through code reviews, design feedback and release delivery.
 
 ---
@@ -33,7 +33,7 @@ Next.js 16 · React 19 · TypeScript · Vercel
 
 ## Tech stack
 
-**Frontend:** Angular 2–18 (production), Angular 20–22, Angular Signals, React (production), React 19 + Next.js 16, TypeScript, JavaScript, RxJS, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
+**Frontend:** Angular 2–20 (production), Angular 21–22 (exploring), Angular Signals, React (production), React 19 + Next.js 16, TypeScript, JavaScript, RxJS, HTML5, CSS3, SCSS, Tailwind CSS, Bootstrap
 **Architecture:** SPA architecture, Micro Frontends, Module Federation, metadata-driven and configuration-driven UI, design systems
 **Performance:** lazy loading, bundle optimization, zoneless change detection, Chrome DevTools profiling
 **AI engineering:** Claude Code, GitHub Copilot, GitLab Duo, Figma MCP, Gemini CLI, Ollama, LangChain, LangGraph, RAG workflows, Python (prototyping)
