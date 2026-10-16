@@ -22,7 +22,7 @@
 ## Featured projects
 
 ### [Vantage Ops Navigator](https://github.com/shailendra-gupta-dev/vantage-ops-navigator) — network operations dashboard · [Live demo](https://shailendra-gupta-dev.github.io/vantage-ops-navigator/)
-The public, open-source mirror of the enterprise navigation framework I delivered on Truist OneView: Engineer, Manager, Admin and Partner views filtered at runtime from declarative JSON, with no template changes.
+An open-source, clean-room demo of the metadata-driven navigation pattern I've built in enterprise banking: Engineer, Manager, Admin and Partner views filtered at runtime from declarative JSON, with no template changes.
 Angular 22 · Standalone Components · Signals · Zoneless Change Detection · SSR · Tailwind CSS v4 · ECharts · Vitest. Designed in Figma Make and built with a Claude Code + Figma MCP design-to-code workflow.
 
 ### [Personal portfolio website](https://shailendradevendragupta.com)
@@ -49,10 +49,10 @@ Next.js 16 · React 19 · TypeScript · Vercel
 
 | Period | Role | Client |
 |---|---|---|
-| Mar 2022 – present | AI-First Frontend Architect | Truist OneView — banking platform |
-| Sep 2021 – Feb 2022 | Frontend Lead | KBC Group — property insurance B2B |
-| May 2020 – Aug 2021 | Frontend Lead | Movement Mortgage — Move Home |
-| Aug 2014 – Apr 2020 | Senior Frontend Developer | CareFirst — healthcare portal suite |
+| Mar 2022 – present | AI-First Frontend Architect | Major US commercial bank — banking platform |
+| Sep 2021 – Feb 2022 | Frontend Lead | European insurance group — property insurance B2B |
+| May 2020 – Aug 2021 | Frontend Lead | US mortgage lender — sales & marketing platform |
+| Aug 2014 – Apr 2020 | Senior Frontend Developer | US health insurer — healthcare portal suite |
 | Sep 2008 – Jul 2014 | Systems Engineer → Senior Systems Engineer | Enterprise web applications |
 
 ## Certifications
